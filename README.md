@@ -48,9 +48,9 @@ This seems to be an issue with the new notification api that uses dbus in awesom
 - (Optional) [Ksnip](https://github.com/ksnip/ksnip) my personal screenshot utility of choice, can be replaced by whichever you want, just remember to edit the screenshot utility script!
 - (Optional) [Redshift](https://github.com/jonls/redshift) For blue light filter
 
-'''
+```
 yay -S awesome rofi picom i3lock-fancy xclip ttf-roboto polkit-gnome materia-theme lxappearance flameshot pnmixer network-manager-applet xfce4-power-manager qt5-styleplugins papirus-icon-theme -y
-'''
+```
 
 ### 2) Add the awesomewm session file if it was not created
 After installing all the dependencies (and compiled and installed awesomewm from source!)<br>
